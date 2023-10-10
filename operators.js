@@ -22,3 +22,10 @@ console.log(quotient);
 let x=5;
 console.log(x);
 
+// += adds a value to the variable
+
+let y=5;
+y+=7;
+console.log(y);
+
+
