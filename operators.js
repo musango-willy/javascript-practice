@@ -51,3 +51,19 @@ console.log(y);
  console.log(isEqual);
 
  // != isNotEqual
+
+ let isNotEqual=5!=5;
+ console.log(isNotEqual);
+
+ //!=notStrict
+
+ let isStrictNotEqual=5!==4;
+ console.log(isStrictNotEqual);
+
+ //>= GreaterThanOrEqual
+ let isGreaterThanOrEqual=5>=3;
+ console.log(isGreaterThanOrEqual);
+
+ //===strong equal
+ let isStrictNotEqualqual=5===5;
+ console.log(isEqual)
