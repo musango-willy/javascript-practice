@@ -24,11 +24,30 @@ console.log(x);
 
 // += adds a value to the variable
 
-let x=5;
-x+=7;
+let y=5;
+y+=7;
 console.log(y);
 
-//*= multiples a value to the variable
-let x=6;
-x*=5;
+// *= multiples a value to the variable
+
+let y=6;
+y*=5;
 console.log(y);
+
+// /=divides a value to the variable
+ let y=5;
+ y/=3;
+ console.log(y);
+
+ // %=modulus
+
+ let y=5:
+ y%=3;
+ console.log(y);
+
+//comparison operators
+//==equal
+ let isEqual=5=="5";// weak equal/strict
+ console.log(isEqual);
+
+ // != isNotEqual
