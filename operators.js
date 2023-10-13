@@ -67,3 +67,5 @@ console.log(y);
  //===strong equal
  let isStrictNotEqualqual=5===5;
  console.log(isEqual)
+ 
+ //end of javascript operators
