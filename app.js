@@ -24,6 +24,7 @@ if(theScore<=39){
 }else{//negative score
 
     console.log("no score");
+}
 
 
 
@@ -54,5 +55,10 @@ if(theScore<=39){
         default:
             console.log("no score")
     }
+//for loop
 
+for(let number=2;number<=12;number++){
+
+    console.log(number);
+    
 }
