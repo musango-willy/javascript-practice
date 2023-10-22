@@ -63,4 +63,13 @@ for(let number=2;number<=12;number++){
 
 }
 
-//increment number by one
+// increment number by one
+
+
+for(let count=20;number>=5;count--){
+
+    console.log(count);
+
+}
+
+// decrements count by one
