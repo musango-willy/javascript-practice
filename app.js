@@ -60,5 +60,7 @@ if(theScore<=39){
 for(let number=2;number<=12;number++){
 
     console.log(number);
-    
+
 }
+
+//increment number by one
