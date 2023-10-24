@@ -64,9 +64,13 @@ let number=1;
 for(;number<=5;){
 
     console.log(number)
-    
+
     number++
+
 }
+
+// for loop it performs iterations until certain conditions are met
+// increments the number by one in each iteration until the condition is evaluated.
 
 
 
