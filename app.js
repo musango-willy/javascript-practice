@@ -72,6 +72,9 @@ for(;number<=5;){
 // for loop it performs iterations until certain conditions are met
 // increments the number by one in each iteration until the condition is evaluated.
 
+//do while loop
+
+let 
 
 
 
