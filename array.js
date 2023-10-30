@@ -44,4 +44,62 @@ const addition=number.reduce(function(accnumber,numbernumber){
 })
 console.log(addition);
 
+const firstname ="moffat";
 
+let age =25;
+
+function add(a,b);
+{
+    const sum=ka+b;
+    mul=sum*2;
+    return sum;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
