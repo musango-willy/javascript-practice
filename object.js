@@ -1,6 +1,8 @@
 l
 //objects
 
+console.log("Hello Class")
+
 const  person ={
     firstname:"musango",
     lastname:"willy",
@@ -9,5 +11,7 @@ const  person ={
 
 }
 const personFirstname=person.firstname;
+const personLastname=person.Lastname;
 
 console.log(personFirstname);
+console.log["personLastname"];
