@@ -14,8 +14,9 @@ function sum(num1,num2,num3){
 
 Number()
 
-const add=sum(20,20,10);//50
+const add=sum(20,20,10);//50 it is used to add two or more operands
 
 console.log(sum);
+
 
 
